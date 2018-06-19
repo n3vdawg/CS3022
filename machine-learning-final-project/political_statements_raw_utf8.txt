@@ -1,0 +1,12 @@
+eCommon domain codes added
+
+Testing - 
+
+100% SpecialHandlingCodes
+100% SourceCodes
+100% REXQualMarkCodes -- except DIM Weight
+100% TrackTypeExceptionCodes
+
+
+
+
